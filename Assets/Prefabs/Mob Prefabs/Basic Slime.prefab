@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 5138452240574099986}
   - component: {fileID: 5138452240574100975}
   - component: {fileID: 5906294636813659772}
+  - component: {fileID: 8265021202683961756}
   m_Layer: 3
   m_Name: Basic Slime
   m_TagString: Untagged
@@ -98,21 +99,21 @@ MonoBehaviour:
   m_GameObject: {fileID: 5138452240574099989}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: db2684a8216d94a099e008af67f13b05, type: 3}
+  m_Script: {fileID: 11500000, guid: 87dc5abdb66554a77abd94a8769b4670, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkSpeed: 50
-  rb: {fileID: 5138452240574099986}
+  walkSpeed: 0
+  rb: {fileID: 0}
   mustPatrol: 0
   mustTurn: 0
-  groundCheckPos: {fileID: 5138452242470259203}
+  groundCheckPos: {fileID: 0}
   groundLayer:
     serializedVersion: 2
-    m_Bits: 256
-  bodyCollider: {fileID: 5138452240574100975}
+    m_Bits: 0
+  bodyCollider: {fileID: 0}
   wallLayer:
     serializedVersion: 2
-    m_Bits: 512
+    m_Bits: 0
 --- !u!61 &5138452240574099987
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -205,6 +206,20 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &8265021202683961756
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5138452240574099989}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c99711654fb64ab0abad106bf770fae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  walkSpeed: 0
+  rb: {fileID: 0}
 --- !u!1 &5138452242470259202
 GameObject:
   m_ObjectHideFlags: 0
@@ -229,7 +244,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5138452242470259202}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.22685337, y: -0.188, z: -82.07709}
+  m_LocalPosition: {x: 0.22685337, y: -0.213, z: -82.07709}
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children: []
   m_Father: {fileID: 5138452240574100974}
