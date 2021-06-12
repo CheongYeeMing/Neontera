@@ -4,19 +4,15 @@ using UnityEngine;
 
 public class MobPatrol : MobBasic
 {
-    //public float walkSpeed;
-    //public float distToPlayer;
 
     public bool mustPatrol;
     public bool mustTurn;
 
-    //public Rigidbody2D rb;
     public Transform groundCheckPos;
     public LayerMask groundLayer;
     public Collider2D bodyCollider;
     public LayerMask wallLayer;
-    //public Transform player;
-    //public GameObject bullet;
+
 
 
     // Start is called before the first frame update
@@ -33,29 +29,6 @@ public class MobPatrol : MobBasic
             Patrol();
         }
 
-       /* distToPlayer = Vector2.Distance(transform.position, player.position);
-
-        if(distToPlayer <= range)
-        {
-            if (player.position.x > transform.position.x && transform.localScale.x < 0
-                || player.position.x < transform.position.x && transform.localScale.x > 0)
-                // if the player is behind the enemy and is within range, the enemy will turn
-                // to face the player
-            {
-                Flip();
-            }
-
-            mustPatrol = false;
-            rb.velocity = Vector2.zero;
-            StartCoroutine(Shoot());
-        }
-        else
-        {
-            {
-                mustPatrol = true;
-            }
-        }
-        */
     }
 
     void FixedUpdate()
@@ -67,7 +40,7 @@ public class MobPatrol : MobBasic
         }
     }
 
-    void Patrol()
+    public void Patrol()
     {
         if (mustTurn || bodyCollider.IsTouchingLayers(wallLayer) || bodyCollider.IsTouchingLayers(groundLayer)) 
         //if the enemy collides with wall or go to edge of platform, it will flip
@@ -78,7 +51,7 @@ public class MobPatrol : MobBasic
         rb.velocity = new Vector2(walkSpeed * Time.fixedDeltaTime, rb.velocity.y);
     }
 
-    void Flip()
+    public void Flip()
     //function to flip the enemy
     {
         mustPatrol = false;
@@ -86,11 +59,4 @@ public class MobPatrol : MobBasic
         walkSpeed *= -1;
         mustPatrol = true;
     }
-
-   /* IEnumerator Shoot()
-    {
-        yield return new WaitForSeconds(timeBTWShots);
-        GameObject newBullet = Instantiate(bullet, shootPos, Quaternion.identity);
-    }
-    */
 }
