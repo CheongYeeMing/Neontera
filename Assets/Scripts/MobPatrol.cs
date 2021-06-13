@@ -13,8 +13,6 @@ public class MobPatrol : MobBasic
     public Collider2D bodyCollider;
     public LayerMask wallLayer;
 
-
-
     // Start is called before the first frame update
     void Start()
     {
@@ -28,6 +26,8 @@ public class MobPatrol : MobBasic
         {
             Patrol();
         }
+
+        animator.SetFloat("Speed", Mathf.Abs(walkSpeed));
 
     }
 

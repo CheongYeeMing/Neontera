@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class MobRangePatrol : MobPatrol
 {
-    public Animator animator;
-    
     public float distToPlayer;
     public float range;
     public float timeBTWShots;

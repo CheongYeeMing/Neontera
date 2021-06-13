@@ -7,6 +7,7 @@ public class MobBasic : MonoBehaviour
 
     public float walkSpeed;
     public Rigidbody2D rb;
+    public Animator animator;
 
     public int health;
 

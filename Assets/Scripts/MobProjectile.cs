@@ -16,6 +16,7 @@ public class MobProjectile : MonoBehaviour
         //rb.velocity = transform.right * speed;
     }
 
+    /*
     void OnTriggerEnter2D(Collider2D hitInfo)
     {
         Rigidbody2D player = hitInfo.GetComponent<Rigidbody2D>();
@@ -27,11 +28,12 @@ public class MobProjectile : MonoBehaviour
         }
         Destroy(gameObject);
     }
+    */
     
     void OnCollisionEnter2D(Collision2D col)
     {
 
-        Disappear();
+       // Disappear();
 
     }
 
