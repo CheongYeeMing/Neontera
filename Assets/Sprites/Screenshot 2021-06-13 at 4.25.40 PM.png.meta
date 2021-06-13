@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: b9ae54e27ce6e427d930bbea4e290a8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7008324544623857997
+    second: MobSpiderIdle1
+  - first:
+      213: 558090579294777344
+    second: MobSpiderIdle2
+  - first:
+      213: -7235394313106420502
+    second: MobSpiderIdle3
+  - first:
+      213: 2415525020184781212
+    second: MobSpiderIdle4
+  - first:
+      213: 6676077229306965742
+    second: MobSpiderIdle5
+  - first:
+      213: 7795110426031817476
+    second: MobSpiderIdle6
+  - first:
+      213: 3105252829097949675
+    second: MobSpiderMove1
+  - first:
+      213: -9043026656197315324
+    second: MobSpiderMove2
+  - first:
+      213: -2433146710973750169
+    second: MobSpiderMove3
+  - first:
+      213: 174821446713034928
+    second: MobSpiderMove4
+  - first:
+      213: 7595092505053370161
+    second: MobSpiderMove5
+  - first:
+      213: 4613841210024935371
+    second: MobSpiderMove6
+  - first:
+      213: -1030796955936562561
+    second: MobSpiderMove7
+  - first:
+      213: 7096172301891940966
+    second: MobSpiderMove8
+  - first:
+      213: 8585010164512331527
+    second: MobSpiderAttack1
+  - first:
+      213: 7472214966037141224
+    second: MobSpiderAttack2
+  - first:
+      213: 1990939018686484836
+    second: MobSpiderAttack3
+  - first:
+      213: -2999702459847656473
+    second: MobSpiderAttack4
+  - first:
+      213: -1165082746260257020
+    second: MobSpiderAttack5
+  - first:
+      213: -8488062610592117536
+    second: MobSpiderAttack6
+  - first:
+      213: -7413508266479422649
+    second: MobSpiderDeath1
+  - first:
+      213: -1674835380384757033
+    second: MobSpiderDeath2
+  - first:
+      213: -8279284920197483923
+    second: MobSpiderDeath3
+  - first:
+      213: 7929841752071661765
+    second: MobSpiderDeath4
+  - first:
+      213: -7431219309660787702
+    second: MobSpiderDeath5
+  - first:
+      213: 401881150607779549
+    second: MobSpiderDeath6
+  - first:
+      213: -8392448095757080211
+    second: MobSpiderDeath7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MobSpiderIdle1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 182
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be2b0755fd6dbe90800000000000000
+      internalID: -7008324544623857997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobSpiderIdle2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 184
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0007b5bcc6cbeb700800000000000000
+      internalID: 558090579294777344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobSpiderIdle3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 184
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec096df437b69b90800000000000000
+      internalID: -7235394313106420502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobSpiderIdle4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 184
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91ae26353ba58120800000000000000
+      internalID: 2415525020184781212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobSpiderIdle5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 183
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee6ae16ed036ac50800000000000000
+      internalID: 6676077229306965742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobSpiderIdle6
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 184
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4030298d1abcd2c60800000000000000
+      internalID: 7795110426031817476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobSpiderMove1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 134
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9f828eef2181b20800000000000000
+      internalID: 3105252829097949675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobSpiderMove2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 132
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40578fe0b27b08280800000000000000
+      internalID: -9043026656197315324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobSpiderMove3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 136
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 2, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764effd25f9bb3ed0800000000000000
+      internalID: -2433146710973750169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobSpiderMove4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 135
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b84376fd271d6200800000000000000
+      internalID: 174821446713034928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobSpiderMove5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 135
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13710ff8460376960800000000000000
+      internalID: 7595092505053370161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobSpiderMove6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 137
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf3895a228a70040800000000000000
+      internalID: 4613841210024935371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobSpiderMove7
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 135
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72e8d541afd1b1f0800000000000000
+      internalID: -1030796955936562561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobSpiderMove8
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 136
+        width: 68
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6623c378c1baa7260800000000000000
+      internalID: 7096172301891940966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobSpiderAttack1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 79
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70710e06245142770800000000000000
+      internalID: 8585010164512331527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobSpiderAttack2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 77
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e650001ce3a2b760800000000000000
+      internalID: 7472214966037141224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobSpiderAttack3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 78
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461d5423d7c31ab10800000000000000
+      internalID: 1990939018686484836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobSpiderAttack4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 77
+        width: 72
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb3ae0818aee56d0800000000000000
+      internalID: -2999702459847656473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobSpiderAttack5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 76
+        width: 72
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40788374a6bc4dfe0800000000000000
+      internalID: -1165082746260257020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobSpiderAttack6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 78
+        width: 71
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecc1600708543a80800000000000000
+      internalID: -8488062610592117536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobSpiderDeath1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 21
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7437215928ded1990800000000000000
+      internalID: -7413508266479422649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobSpiderDeath2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 25
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da09ee581ac1c8e0800000000000000
+      internalID: -1674835380384757033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobSpiderDeath3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 23
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6271690b321a1d80800000000000000
+      internalID: -8279284920197483923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobSpiderDeath4
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 22
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8ea453f057c0e60800000000000000
+      internalID: 7929841752071661765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobSpiderDeath5
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 19
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c25aff8610fd890800000000000000
+      internalID: -7431219309660787702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobSpiderDeath6
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 21
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6e6e7f6c4c39500800000000000000
+      internalID: 401881150607779549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobSpiderDeath7
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 21
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69ee780ce8088b80800000000000000
+      internalID: -8392448095757080211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

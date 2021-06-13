@@ -44,6 +44,7 @@ GameObject:
   - component: {fileID: 4292134107067375540}
   - component: {fileID: 5145504076477123332}
   - component: {fileID: 1241950168086240557}
+  - component: {fileID: 3733246661532604775}
   m_Layer: 11
   m_Name: Acid Slime
   m_TagString: Untagged
@@ -133,6 +134,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   walkSpeed: 50
   rb: {fileID: 4292134107067375540}
+  health: 0
   mustPatrol: 0
   mustTurn: 0
   groundCheckPos: {fileID: 1835498124308437695}
@@ -143,6 +145,7 @@ MonoBehaviour:
   wallLayer:
     serializedVersion: 2
     m_Bits: 512
+  animator: {fileID: 3733246661532604775}
   distToPlayer: 2
   range: 5
   timeBTWShots: 2
@@ -224,6 +227,25 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.27742037, y: 0.17051224}
   m_EdgeRadius: 0
+--- !u!95 &3733246661532604775
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3611114286775451601}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 4b7387301a8bd4138b52d55b1b291a5f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &5544465594138462978
 GameObject:
   m_ObjectHideFlags: 0

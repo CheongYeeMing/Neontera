@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class MobRangePatrol : MobPatrol
 {
-
+    public Animator animator;
+    
     public float distToPlayer;
     public float range;
     public float timeBTWShots;
@@ -48,7 +49,9 @@ public class MobRangePatrol : MobPatrol
             rb.velocity = Vector2.zero;
 
             if (canShoot)
+            {
             StartCoroutine(Shoot());
+            }
         }
         else
         {
@@ -61,14 +64,18 @@ public class MobRangePatrol : MobPatrol
 
     public IEnumerator Shoot()
     {
+        animator.SetBool("IsShooting", true);
+        
         canShoot = false;
 
         yield return new WaitForSeconds(timeBTWShots);
         GameObject newProjectile = Instantiate(projectile, shootPos.position, Quaternion.identity);
 
         newProjectile.GetComponent<Rigidbody2D>().velocity = new Vector2(shootSpeed * Time.fixedDeltaTime, 0f);
-        Debug.Log("Shoot");
+        //Debug.Log("Shoot");
         canShoot = true;
+
+        animator.SetBool("IsShooting", false);
         
     }
     
