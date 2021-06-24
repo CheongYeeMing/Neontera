@@ -1,0 +1,2652 @@
+fileFormatVersion: 2
+guid: 89edd19d613234bf4a25d3d158088e59
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3376170491581821446
+    second: DeathBuzzard_0
+  - first:
+      213: 3300561249982054012
+    second: DeathBuzzard_Idle1
+  - first:
+      213: 6180172255612002303
+    second: DeathBuzzard_Idle2
+  - first:
+      213: -3892726155863568393
+    second: DeathBuzzard_Idle3
+  - first:
+      213: 6440817659342354502
+    second: DeathBuzzard_Idle4
+  - first:
+      213: 4749231263117384822
+    second: DeathBuzzard_Attack1
+  - first:
+      213: -4284077582489700976
+    second: DeathBuzzard_Attack2
+  - first:
+      213: 3887597145720050411
+    second: DeathBuzzard_Attack3
+  - first:
+      213: -6104539808659683192
+    second: DeathBuzzard_Attack4
+  - first:
+      213: -2423926979621693508
+    second: DeathBuzzard2_Idle1
+  - first:
+      213: -5175131597952746896
+    second: DeathBuzzard2_Idle2
+  - first:
+      213: 1933955632926274996
+    second: DeathBuzzard2_Idle3
+  - first:
+      213: 322492904071279856
+    second: DeathBuzzard2_Idle4
+  - first:
+      213: -8527078692829173283
+    second: DeathBuzzard2_Attack1
+  - first:
+      213: -1984855824614040168
+    second: DeathBuzzard2_Attack2
+  - first:
+      213: 8095005709490629441
+    second: DeathBuzzard2_Attack3
+  - first:
+      213: 322446560017765410
+    second: DeathBuzzard2_Attack4
+  - first:
+      213: -1077275350085978182
+    second: DeathBuzzard_17
+  - first:
+      213: -9068669529640798984
+    second: DeathBuzzard_18
+  - first:
+      213: -5095837907799364903
+    second: DeathBuzzard_19
+  - first:
+      213: -1680433679762626296
+    second: DeathBuzzard_20
+  - first:
+      213: -2189219665584521044
+    second: DeathBuzzard_21
+  - first:
+      213: -4643545458464813967
+    second: DeathBuzzard_22
+  - first:
+      213: -8565729572845093650
+    second: DeathBuzzard_23
+  - first:
+      213: -4907486950820047298
+    second: DeathBuzzard_24
+  - first:
+      213: 505947544352749353
+    second: DeathBuzzard_25
+  - first:
+      213: -5752471937412889677
+    second: DeathBuzzard_26
+  - first:
+      213: -1651943904163677080
+    second: DeathBuzzard_27
+  - first:
+      213: -2391357037420408381
+    second: DeathBuzzard_28
+  - first:
+      213: -4523210137340320309
+    second: DeathBuzzard_29
+  - first:
+      213: -4019200413614977991
+    second: DeathBuzzard_30
+  - first:
+      213: -5161165335776189865
+    second: DeathBuzzard_31
+  - first:
+      213: 3387301080382154325
+    second: DeathBuzzard_32
+  - first:
+      213: 8116350426290702909
+    second: DeathBuzzard_33
+  - first:
+      213: 3703363978977748695
+    second: DeathBuzzard_34
+  - first:
+      213: 8440877952693087789
+    second: DeathBuzzard_35
+  - first:
+      213: -3295393526151938504
+    second: DeathBuzzard_36
+  - first:
+      213: -3307773817246347249
+    second: DeathBuzzard_37
+  - first:
+      213: 1211948191325467896
+    second: DeathBuzzard_38
+  - first:
+      213: 7574142305068996692
+    second: DeathBuzzard_39
+  - first:
+      213: 2416744162497834079
+    second: DeathBuzzard_40
+  - first:
+      213: -1777310117874508571
+    second: DeathBuzzard_41
+  - first:
+      213: -6348938236833150036
+    second: DeathBuzzard_42
+  - first:
+      213: -6470791898447141980
+    second: DeathBuzzard_43
+  - first:
+      213: -446413673908756178
+    second: DeathBuzzard_44
+  - first:
+      213: -3565731942984947778
+    second: DeathBuzzard_45
+  - first:
+      213: -6530806819985949986
+    second: DeathBuzzard_46
+  - first:
+      213: 6704760884485849525
+    second: DeathBuzzard_47
+  - first:
+      213: -133899515303859471
+    second: DeathBuzzard_48
+  - first:
+      213: -3314168640300315304
+    second: DeathBuzzard_49
+  - first:
+      213: 7695177919045358280
+    second: DeathBuzzard_50
+  - first:
+      213: -3307653974197378260
+    second: DeathBuzzard_51
+  - first:
+      213: -2550696417408466719
+    second: DeathBuzzard_52
+  - first:
+      213: -1519564372798495569
+    second: DeathBuzzard_53
+  - first:
+      213: 1843663484143893521
+    second: DeathBuzzard_54
+  - first:
+      213: -7907735560366855943
+    second: DeathBuzzard_55
+  - first:
+      213: 3046527334414812480
+    second: DeathBuzzard_56
+  - first:
+      213: 7018706636081317609
+    second: DeathBuzzard_57
+  - first:
+      213: 548206365365305779
+    second: DeathBuzzard_58
+  - first:
+      213: 3645947032561130053
+    second: DeathBuzzard_59
+  - first:
+      213: 3771553634973670854
+    second: DeathBuzzard_60
+  - first:
+      213: -5495474986433466894
+    second: DeathBuzzard_61
+  - first:
+      213: 6665717826805362440
+    second: DeathBuzzard_62
+  - first:
+      213: 1316200153680296319
+    second: DeathBuzzard_63
+  - first:
+      213: 7122134820862023992
+    second: DeathBuzzard_64
+  - first:
+      213: -4408722011521615547
+    second: DeathBuzzard_65
+  - first:
+      213: 1967520392412481802
+    second: DeathBuzzard_66
+  - first:
+      213: 6886919922912017160
+    second: DeathBuzzard_67
+  - first:
+      213: 6881360975136590802
+    second: DeathBuzzard_68
+  - first:
+      213: -4745709792530404381
+    second: DeathBuzzard_69
+  - first:
+      213: 5289649082825400577
+    second: DeathBuzzard_70
+  - first:
+      213: 4376135752347630362
+    second: DeathBuzzard_71
+  - first:
+      213: -6047343223186611248
+    second: DeathBuzzard_72
+  - first:
+      213: -1092108966736934162
+    second: DeathBuzzard_73
+  - first:
+      213: -6383024812600460305
+    second: DeathBuzzard_74
+  - first:
+      213: -3318470839256689146
+    second: DeathBuzzard_75
+  - first:
+      213: 662153012918165539
+    second: DeathBuzzard_76
+  - first:
+      213: 5066042313873221983
+    second: DeathBuzzard_77
+  - first:
+      213: 2757763856532724717
+    second: DeathBuzzard_78
+  - first:
+      213: 920043346446203525
+    second: DeathBuzzard_79
+  - first:
+      213: -1966417601105214987
+    second: DeathBuzzard_80
+  - first:
+      213: -9043968640646735151
+    second: DeathBuzzard_81
+  - first:
+      213: -4147637659391294000
+    second: DeathBuzzard_82
+  - first:
+      213: -52233384342920456
+    second: DeathBuzzard_83
+  - first:
+      213: -5090678269331948159
+    second: DeathBuzzard_84
+  - first:
+      213: -7449696595892593371
+    second: DeathBuzzard_85
+  - first:
+      213: -7649252793646864931
+    second: DeathBuzzard_86
+  - first:
+      213: 2004399794437917123
+    second: DeathBuzzard_87
+  - first:
+      213: 5962805001161117818
+    second: DeathBuzzard_88
+  - first:
+      213: 2298000534077460228
+    second: DeathBuzzard_89
+  - first:
+      213: -5265786863246722346
+    second: DeathBuzzard_90
+  - first:
+      213: 2383814524627123353
+    second: DeathBuzzard_91
+  - first:
+      213: -3452206488144461367
+    second: DeathBuzzard_92
+  - first:
+      213: -7570311400274308968
+    second: DeathBuzzard_93
+  - first:
+      213: -1038037187258457436
+    second: DeathBuzzard_94
+  - first:
+      213: -3517864837849832365
+    second: DeathBuzzard_95
+  - first:
+      213: -4720817038970770334
+    second: DeathBuzzard_96
+  - first:
+      213: 854598821126974556
+    second: DeathBuzzard_97
+  - first:
+      213: 3153866293264542302
+    second: DeathBuzzard_98
+  - first:
+      213: -7558086996467851431
+    second: DeathBuzzard_99
+  - first:
+      213: -449590252113135997
+    second: DeathBuzzard_100
+  - first:
+      213: 5811971889646973752
+    second: DeathBuzzard_101
+  - first:
+      213: 3340100424077749603
+    second: DeathBuzzard_102
+  - first:
+      213: 2928904849833537889
+    second: DeathBuzzard_103
+  - first:
+      213: -4975605226288583020
+    second: DeathBuzzard_104
+  - first:
+      213: -3258201635222571854
+    second: DeathBuzzard_105
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DeathBuzzard_0
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 138
+        width: 79
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602f3e3ac219ade20800000000000000
+      internalID: 3376170491581821446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_Idle1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 375
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e799048f2fdcd20800000000000000
+      internalID: 3300561249982054012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_Idle2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 375
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff5a7a2ce164c550800000000000000
+      internalID: 6180172255612002303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_Idle3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 375
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff41ef8f224af9c0800000000000000
+      internalID: -3892726155863568393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_Idle4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 374
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648f9284981626950800000000000000
+      internalID: 6440817659342354502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_Attack1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 278
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c9a4adba8a8e140800000000000000
+      internalID: 4749231263117384822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_Attack2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 278
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095bc710326eb84c0800000000000000
+      internalID: -4284077582489700976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_Attack3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 278
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be25774b10583f530800000000000000
+      internalID: 3887597145720050411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_Attack4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 277
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888cb932361584ba0800000000000000
+      internalID: -6104539808659683192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard2_Idle1
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 375
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7d92a214b7c5ed0800000000000000
+      internalID: -2423926979621693508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard2_Idle2
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 375
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a702e0b3d3e28b0800000000000000
+      internalID: -5175131597952746896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard2_Idle3
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 375
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5bfefc66ac6da10800000000000000
+      internalID: 1933955632926274996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard2_Idle4
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 375
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4b0cd6699b97400800000000000000
+      internalID: 322492904071279856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard2_Attack1
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 278
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd96d167b1bb9a980800000000000000
+      internalID: -8527078692829173283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard2_Attack2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 277
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dd38bc4206474e0800000000000000
+      internalID: -1984855824614040168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard2_Attack3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 276
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ba2f8bdcc375070800000000000000
+      internalID: 8095005709490629441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard2_Attack4
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 275
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224d7ec107f897400800000000000000
+      internalID: 322446560017765410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 336
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab737d8d6cfbc01f0800000000000000
+      internalID: -1077275350085978182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 336
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4f9545c1d952280800000000000000
+      internalID: -9068669529640798984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 332
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da26a8fb62f749b0800000000000000
+      internalID: -5095837907799364903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 336
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8096529b876eda8e0800000000000000
+      internalID: -1680433679762626296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 336
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0098920545e91e0800000000000000
+      internalID: -2189219665584521044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_22
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 336
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c83d11200de8fb0800000000000000
+      internalID: -4643545458464813967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_23
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 332
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec7280365a602980800000000000000
+      internalID: -8565729572845093650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_24
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 336
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3691848e9a15ebb0800000000000000
+      internalID: -4907486950820047298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 263
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92770286c9c750700800000000000000
+      internalID: 505947544352749353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 263
+        width: 48
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b30a16304d1b20b0800000000000000
+      internalID: -5752471937412889677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_27
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 263
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cb37385cd1319e0800000000000000
+      internalID: -1651943904163677080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_28
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 263
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c11d65c17130ded0800000000000000
+      internalID: -2391357037420408381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_29
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 263
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5626758545a31c0800000000000000
+      internalID: -4523210137340320309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_30
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 263
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c4069b48ee838c0800000000000000
+      internalID: -4019200413614977991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 263
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752200ed87bdf58b0800000000000000
+      internalID: -5161165335776189865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_32
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 263
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556a97bc26c120f20800000000000000
+      internalID: 3387301080382154325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_33
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 263
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ac5afd5b113a070800000000000000
+      internalID: 8116350426290702909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_34
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 260
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d622f8eaedf46330800000000000000
+      internalID: 3703363978977748695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_35
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 263
+        width: 53
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ea2bab6c5042570800000000000000
+      internalID: 8440877952693087789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 217
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e77963c096442d0800000000000000
+      internalID: -3295393526151938504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 217
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0091b11d3d6812d0800000000000000
+      internalID: -3307773817246347249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_38
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 217
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4b1267574b1d010800000000000000
+      internalID: 1211948191325467896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_39
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 217
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45855e30c42cc1960800000000000000
+      internalID: 7574142305068996692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_40
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 217
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5caea6e2000a8120800000000000000
+      internalID: 2416744162497834079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_41
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 217
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecd1684dd9b557e0800000000000000
+      internalID: -1777310117874508571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_42
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 217
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab4aaccf4a04e7a0800000000000000
+      internalID: -6348938236833150036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_43
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 226
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a325955d012336a0800000000000000
+      internalID: -6470791898447141980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_44
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 217
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21aac7f0250ec9f0800000000000000
+      internalID: -446413673908756178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_45
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 217
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb76e1e90b9f38ec0800000000000000
+      internalID: -3565731942984947778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_46
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 217
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaf9068cc9ed55a0800000000000000
+      internalID: -6530806819985949986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_47
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 217
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b186b740881c0d50800000000000000
+      internalID: 6704760884485849525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_48
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 217
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa67baa91b442ef0800000000000000
+      internalID: -133899515303859471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_49
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 217
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d092d4e25b102d0800000000000000
+      internalID: -3314168640300315304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_50
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 217
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2d02ceb83caca60800000000000000
+      internalID: 7695177919045358280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_51
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 226
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c236e043c3ad812d0800000000000000
+      internalID: -3307653974197378260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_52
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 217
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0c18e5f1b1a9cd0800000000000000
+      internalID: -2550696417408466719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_53
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 217
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4a102014c69eae0800000000000000
+      internalID: -1519564372798495569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_54
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 154
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c71c1bb22069910800000000000000
+      internalID: 1843663484143893521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 188
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8eb92a764124290800000000000000
+      internalID: -7907735560366855943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_56
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 190
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045005e2870774a20800000000000000
+      internalID: 3046527334414812480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_57
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 184
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6cd42bf74776160800000000000000
+      internalID: 7018706636081317609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_58
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 184
+        width: 48
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b10537e8ce9b9700800000000000000
+      internalID: 548206365365305779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_59
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 184
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a12b15281099230800000000000000
+      internalID: 3645947032561130053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_60
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 184
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd50f76c00475430800000000000000
+      internalID: 3771553634973670854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_61
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 184
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fda699bd962cb3b0800000000000000
+      internalID: -5495474986433466894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_62
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 184
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fe8b70c03618c50800000000000000
+      internalID: 6665717826805362440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_63
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 154
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79bd65f015144210800000000000000
+      internalID: 1316200153680296319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_64
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 147
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839dbe782e7e6d260800000000000000
+      internalID: 7122134820862023992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_65
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 155
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549fecd50b211d2c0800000000000000
+      internalID: -4408722011521615547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_66
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09451e5f590e4b10800000000000000
+      internalID: 1967520392412481802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_67
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 153
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b3bb17e21439f50800000000000000
+      internalID: 6886919922912017160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_68
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 173
+        width: 39
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db804e09518f7f50800000000000000
+      internalID: 6881360975136590802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_69
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 173
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebe129661ad32eb0800000000000000
+      internalID: -4745709792530404381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_70
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 173
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1016748a0db986940800000000000000
+      internalID: 5289649082825400577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_71
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 173
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b319fe7482bbc30800000000000000
+      internalID: 4376135752347630362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_72
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 173
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3a813f065831ca0800000000000000
+      internalID: -6047343223186611248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_73
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 173
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea40a55eac08d0f0800000000000000
+      internalID: -1092108966736934162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_74
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 104
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febf17c60c0fa67a0800000000000000
+      internalID: -6383024812600460305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_75
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 104
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606dc9c8a5c62f1d0800000000000000
+      internalID: -3318470839256689146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_76
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 100
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32021f138a0703900800000000000000
+      internalID: 662153012918165539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_77
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 104
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59e287b4a23e4640800000000000000
+      internalID: 5066042313873221983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_78
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb5b03cd9b854620800000000000000
+      internalID: 2757763856532724717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_79
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 104
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a33ea8c86a4cc00800000000000000
+      internalID: 920043346446203525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_80
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 99
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f14c0e3c91e5b4e0800000000000000
+      internalID: -1966417601105214987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_81
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 98
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da9a76307e5d7280800000000000000
+      internalID: -9043968640646735151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_82
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 101
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d503fe1681a076c0800000000000000
+      internalID: -4147637659391294000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_83
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 101
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2e2d0830e664ff0800000000000000
+      internalID: -52233384342920456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_84
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 52
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d3baae5174a59b0800000000000000
+      internalID: -5090678269331948159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_85
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 52
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d926d8a6c5d9890800000000000000
+      internalID: -7449696595892593371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_86
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 45
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5a3859c1568d590800000000000000
+      internalID: -7649252793646864931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_87
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 52
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c986574efe01db10800000000000000
+      internalID: 2004399794437917123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_88
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7091276e8320c250800000000000000
+      internalID: 5962805001161117818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_89
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 52
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f48577f4324ef10800000000000000
+      internalID: 2298000534077460228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dab2494fba2ce6b0800000000000000
+      internalID: -5265786863246722346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_91
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cf0de1ea2051120800000000000000
+      internalID: 2383814524627123353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_92
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1c9d65d7c4710d0800000000000000
+      internalID: -3452206488144461367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_93
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8905f8304e9d0f690800000000000000
+      internalID: -7570311400274308968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_94
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a260dd8da62891f0800000000000000
+      internalID: -1038037187258457436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_95
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354af1481980e2fc0800000000000000
+      internalID: -3517864837849832365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_96
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 27
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c298e3ae94c7eb0800000000000000
+      internalID: -4720817038970770334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_97
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 30
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cadb699152cdb00800000000000000
+      internalID: 854598821126974556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_98
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 27
+        width: 51
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a6c1f0fa8c4cb20800000000000000
+      internalID: 3153866293264542302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_99
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 30
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fd802dbe74c1790800000000000000
+      internalID: -7558086996467851431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_100
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 30
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38671583c0cb2c9f0800000000000000
+      internalID: -449590252113135997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_101
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 30
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833b6f6f3a548a050800000000000000
+      internalID: 5811971889646973752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_102
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 28
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d294b93ab6a5e20800000000000000
+      internalID: 3340100424077749603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_103
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1613f33617f85a820800000000000000
+      internalID: 2928904849833537889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_104
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 11
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49eed78986913fab0800000000000000
+      internalID: -4975605226288583020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathBuzzard_105
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b436fd10ea88c2d0800000000000000
+      internalID: -3258201635222571854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
