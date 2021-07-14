@@ -10,7 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 8300486108652960326}
   - component: {fileID: 5771329809787914436}
-  - component: {fileID: 4632259542627048129}
+  - component: {fileID: 4385368714425076251}
+  - component: {fileID: 27845798292515788}
   m_Layer: 0
   m_Name: Deathwave
   m_TagString: Untagged
@@ -26,8 +27,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6136873414270609106}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.068015, y: -2.4131646, z: 0}
-  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
+  m_LocalPosition: {x: 4.966, y: -2.4245, z: 0}
+  m_LocalScale: {x: 0.283701, y: 0.283701, z: 0.94567}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -84,7 +85,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &4632259542627048129
+--- !u!114 &4385368714425076251
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -93,9 +94,25 @@ MonoBehaviour:
   m_GameObject: {fileID: 6136873414270609106}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4c8a0eaa370b842aebaddc7171cee770, type: 3}
+  m_Script: {fileID: 11500000, guid: f34d4b07593bd4ae79b9944a49457a6c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dieTime: 1000
-  damage: 0
-  rb: {fileID: 0}
+  speed: 10
+  player: {fileID: 0}
+  target: {x: 0, y: 0}
+--- !u!58 &27845798292515788
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6136873414270609106}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.3432009, y: -0.015048071}
+  serializedVersion: 2
+  m_Radius: 0.21684706
