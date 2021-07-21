@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5771329809787914436}
   - component: {fileID: 4385368714425076251}
   - component: {fileID: 27845798292515788}
+  - component: {fileID: 8915253977239513434}
   m_Layer: 0
   m_Name: Deathwave
   m_TagString: Untagged
@@ -27,8 +28,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6136873414270609106}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.966, y: -2.4245, z: 0}
-  m_LocalScale: {x: 0.283701, y: 0.283701, z: 0.94567}
+  m_LocalPosition: {x: 5.1963, y: -2.3256, z: 0}
+  m_LocalScale: {x: 0.70624524, y: 0.69591856, z: 0.94567}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -92,7 +93,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6136873414270609106}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f34d4b07593bd4ae79b9944a49457a6c, type: 3}
   m_Name: 
@@ -116,3 +117,18 @@ CircleCollider2D:
   m_Offset: {x: 0.3432009, y: -0.015048071}
   serializedVersion: 2
   m_Radius: 0.21684706
+--- !u!114 &8915253977239513434
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6136873414270609106}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5819e670cd0c4638ba7e31d8b9378f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 10
+  player: {fileID: 0}
+  target: {x: 0, y: 0}
