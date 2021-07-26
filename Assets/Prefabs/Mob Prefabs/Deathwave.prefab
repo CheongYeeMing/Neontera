@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4385368714425076251}
   - component: {fileID: 27845798292515788}
   - component: {fileID: 8915253977239513434}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: Deathwave
   m_TagString: Untagged
   m_Icon: {fileID: 0}
